@@ -77,6 +77,7 @@ namespace chat_client
                     // sonst Ende der Verbindung
                     sendMessage("<q>");
                     stop();
+                    
                 }
             }
 
