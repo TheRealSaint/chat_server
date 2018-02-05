@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chat_client", "..\..\..\Downloads\chat\chat\client_server_chat\chat_client\chat_client\chat_client.csproj", "{2CA5174B-BD2D-4C57-A3F7-E6097AB58C65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chat_server", "..\..\..\Downloads\chat\chat\client_server_chat\chat_server\chat_server\chat_server.csproj", "{BF710DAC-1BBE-4281-93EF-173C60B94BA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CA5174B-BD2D-4C57-A3F7-E6097AB58C65}.Debug|x86.ActiveCfg = Debug|x86
+		{2CA5174B-BD2D-4C57-A3F7-E6097AB58C65}.Debug|x86.Build.0 = Debug|x86
+		{2CA5174B-BD2D-4C57-A3F7-E6097AB58C65}.Release|x86.ActiveCfg = Release|x86
+		{2CA5174B-BD2D-4C57-A3F7-E6097AB58C65}.Release|x86.Build.0 = Release|x86
+		{BF710DAC-1BBE-4281-93EF-173C60B94BA1}.Debug|x86.ActiveCfg = Debug|x86
+		{BF710DAC-1BBE-4281-93EF-173C60B94BA1}.Debug|x86.Build.0 = Debug|x86
+		{BF710DAC-1BBE-4281-93EF-173C60B94BA1}.Release|x86.ActiveCfg = Release|x86
+		{BF710DAC-1BBE-4281-93EF-173C60B94BA1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDE1D0C6-CEED-434D-BC43-7199C5B9A679}
+	EndGlobalSection
+EndGlobal
