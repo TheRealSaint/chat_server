@@ -18,7 +18,7 @@ namespace chat_client
 
         // Socket zum Server
         TcpClient server;
-        blablablab
+        
         // Netzwerk-Streams
         StreamWriter writer;
         StreamReader reader;
