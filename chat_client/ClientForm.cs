@@ -49,6 +49,7 @@ namespace chat_client
         private void btnSend_Click(object sender, EventArgs e)
         {
             // über den client an den Server schicken
+            
             client.sendMessage(tb_chat_text.Text);
         }
 
